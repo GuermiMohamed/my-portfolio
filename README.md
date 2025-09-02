@@ -15,7 +15,7 @@ A modern, responsive personal portfolio website showcasing my work as a Full-Sta
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Libraries**: 
+- **Libraries**:
   - jQuery
   - Typed.js
   - Particles.js
@@ -51,20 +51,23 @@ Portfolio/
 ## 🚀 Getting Started
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/[your-username]/portfolio.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd portfolio
    ```
 
 3. Open `index.html` in your web browser or use a local server:
+
    ```bash
    # Using Python
    python -m http.server 8000
-   
+
    # Using Node.js
    npx http-server
    ```
@@ -74,6 +77,7 @@ Portfolio/
 ## 📱 Responsive Design
 
 The portfolio is fully responsive and optimized for:
+
 - Desktop (1200px+)
 - Tablet (768px - 1199px)
 - Mobile (320px - 767px)
